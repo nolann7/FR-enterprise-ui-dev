@@ -22,6 +22,8 @@ When it comes to testing, a lot of the terminology is murky and things don't alw
 
 ## Getting Warmed Up: The Basics of Unit Testing
 
+<!-- I'm here -->
+
 Okay, we're not going to dwell _too much_ on the basics of unit testing, but let's at least do a quick review of the basics to get ourselves warmed up and make sure we're on the same page. If you're a little rusty, then this section will get you up to speed. That said, I suspect that even the seasoned unit testing wunderkind, I suspect you'll still pick up a trick or two.
 
 - [Running Your Tests with Vitest](content/Running%20Your%20Tests%20with%20Vitest.md)
