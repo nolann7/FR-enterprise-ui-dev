@@ -41,8 +41,5 @@ describe('Kanban Board', () => {
     );
 
     expect.hasAssertions();
-
-    // Challenge: Could you say that I want this to be equal to *any* object
-    // so long as it has a `url` property that matches.
   });
 });
